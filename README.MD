@@ -22,6 +22,12 @@ The use of numba library is optional, but it is recommended to speed up the comp
 
 - Run `demo_rectangles.py` to see the Hough Transform in action with multiple rectangles.
 
+# Results
+1. Rectangles
+![image](rectangles.png)
+2. sudoku
+![image](sudoku.png)
+
 ## License
 This repository is a modified version of codes under 
 [MIT](https://alyssaq.github.io/mit-license).
